@@ -1,4 +1,4 @@
-#' Banks data
+#' Bank data
 #'
 #' The data is related with direct marketing campaigns of a
 #' Portuguese banking institution. The marketing campaigns were based on
@@ -31,4 +31,6 @@
 #' \item{nr.employed}{numeric: number of employees}
 #' \item{y}{Outcome: has the client subscribed to a term deposite? y/n?}
 #' }
-"banks"
+#' @examples
+#'   bank
+"bank"
