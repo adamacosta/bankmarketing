@@ -4,7 +4,7 @@ Version: 0.1.0.9000
 Date: 2015-08-18
 Authors@R: person(
   "Adam", "Acosta",
-  "adam.acosta@gatech.edu",
+  email = "adam.acosta@gatech.edu",
   role = c("aut", "cre"))
 Description: The data is related with direct marketing campaigns of a
   Portuguese banking institution. The marketing campaigns were based on
