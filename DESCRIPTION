@@ -2,7 +2,10 @@ Package: bankmarketing
 Title: Data About a Bank Marketing Campaign in Portugal 2008-2010
 Version: 0.1.0.9000
 Date: 2015-08-18
-Author@R: 'Adam Acosta <adam.acosta@gatech.edu> [aut, cre]'
+Authors@R: person(
+  "Adam", "Acosta",
+  "adam.acosta@gatech.edu",
+  role = c("aut", "cre"))
 Description: The data is related with direct marketing campaigns of a
   Portuguese banking institution. The marketing campaigns were based on
   phone calls. Often, more than one contact to the same client was required,
